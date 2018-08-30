@@ -13,13 +13,14 @@ export class Score extends Entity {
   id: string;
 
 
+  /*
   @property({
     type: ['array'],
     arrayType: Kpi,
     required: true,
 
   })
-  kpis: Kpi[];
+  kpis: Kpi[];*/
 
 
   constructor(data?: Partial<Score>) {
