@@ -1,0 +1,6 @@
+{
+  "name": "catalogsDS",
+  "connector": "memory",
+  "localStorage": "",
+  "file": "./data/catalogs.json"
+}

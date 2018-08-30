@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "BaseCatalog": 103
+  },
+  "models": {
+    "BaseCatalog": {
+      "10": "{\"id\":\"10\",\"code\":\"DEMO\",\"name\":\"Demo Catalog\",\"description\":\"Demo family catalog\",\"enable\":true}",
+      "11": "{\"id\":\"11\",\"code\":\"DEMO11\",\"name\":\"string\",\"description\":\"string\",\"enable\":true}",
+      "12": "{\"id\":\"12\",\"code\":\"DEMO11\",\"name\":\"string\",\"description\":\"string\",\"enable\":true}"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "genericDB",
+  "connector": "memory",
+  "localStorage": "",
+  "file": "./data/generic.json"
+}
